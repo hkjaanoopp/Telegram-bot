@@ -50,7 +50,7 @@ async def start(client, message):
         "🚀 **Status:** Active\n"
         "⚙️ **Speed:** High Speed",
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/YourUsername")]
+            [InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/HKGAMAR_OFFICIAL")]
         ])
     )
 
